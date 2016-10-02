@@ -1,0 +1,12 @@
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\KillerBeatUnitTests.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\KillerBeatUnitTests.pdb
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\Assembly-CSharp.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\UnityEngine.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\Assembly-CSharp.pdb
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\UnityEngine.xml
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\obj\Debug\KillerBeatUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\obj\Debug\KillerBeatUnitTests.dll
+C:\Users\David\Documents\Unity Projects\KillerBeat\KillerBeatUnitTests\obj\Debug\KillerBeatUnitTests.pdb
